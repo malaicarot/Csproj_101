@@ -1,0 +1,15 @@
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L1-Introduction\Programming_C#_101\Programming_C#_101\obj\Debug\net8.0\PLC#_C#_101.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L1-Introduction\Programming_C#_101\Programming_C#_101\obj\Debug\net8.0\PLC#_C#_101.AssemblyInfoInputs.cache
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L1-Introduction\Programming_C#_101\Programming_C#_101\obj\Debug\net8.0\PLC#_C#_101.AssemblyInfo.cs
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L1-Introduction\Programming_C#_101\Programming_C#_101\obj\Debug\net8.0\PLC#_C#_101.csproj.CoreCompileInputs.cache
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L1-Introduction\Programming_C#_101\Programming_C#_101\obj\Debug\net8.0\PLC#_C#_101.sourcelink.json
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L1-Introduction\Programming_C#_101\Programming_C#_101\bin\Debug\net8.0\PLC#_C#_101.exe
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L1-Introduction\Programming_C#_101\Programming_C#_101\bin\Debug\net8.0\PLC#_C#_101.deps.json
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L1-Introduction\Programming_C#_101\Programming_C#_101\bin\Debug\net8.0\PLC#_C#_101.runtimeconfig.json
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L1-Introduction\Programming_C#_101\Programming_C#_101\bin\Debug\net8.0\PLC#_C#_101.dll
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L1-Introduction\Programming_C#_101\Programming_C#_101\bin\Debug\net8.0\PLC#_C#_101.pdb
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L1-Introduction\Programming_C#_101\Programming_C#_101\obj\Debug\net8.0\PLC#_C#_101.dll
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L1-Introduction\Programming_C#_101\Programming_C#_101\obj\Debug\net8.0\refint\PLC#_C#_101.dll
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L1-Introduction\Programming_C#_101\Programming_C#_101\obj\Debug\net8.0\PLC#_C#_101.pdb
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L1-Introduction\Programming_C#_101\Programming_C#_101\obj\Debug\net8.0\PLC#_C#_101.genruntimeconfig.cache
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L1-Introduction\Programming_C#_101\Programming_C#_101\obj\Debug\net8.0\ref\PLC#_C#_101.dll
